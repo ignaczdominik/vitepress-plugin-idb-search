@@ -1,5 +1,5 @@
-const path = require("path");
-const { defineConfig } = require("vite");
+import path from "path";
+import { defineConfig } from "vite";
 import { viteStaticCopy } from "vite-plugin-static-copy";
 
 module.exports = defineConfig({
