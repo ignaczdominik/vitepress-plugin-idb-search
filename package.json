@@ -1,5 +1,5 @@
 {
-  "name": "vitepress-plugin-simple-search",
+  "name": "vitepress-plugin-idb-search",
   "version": "2.0.0",
   "description": "A very simple offline search for your vitepress documentation.",
   "author": "Stuyk",
